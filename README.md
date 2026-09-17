@@ -1,5 +1,5 @@
 # Estate Agency Website — Apex27 Portal API
-
+> 🚀 **Try it live: [open the working demo](https://plompee.github.io/projects/estate-agency/)** — no setup, runs entirely in your browser.>
 A complete estate agency website that runs **100% in the browser** — no backend.
 
 Hartley & Grove is a fictional agency. All property data is a snapshot of the **Apex27 Portal API** (78 listings with full property details, images, floorplans and EPCs). Search, filtering, sorting, pagination and rendering all run client-side in `js/agency.js`.
